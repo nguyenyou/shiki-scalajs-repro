@@ -1,3 +1,7 @@
+## Fixed
+<img width="928" alt="Screenshot 2025-05-22 at 10 55 01" src="https://github.com/user-attachments/assets/e6523a96-e68a-41fe-99cc-128537816352" />
+
+
 ## How to run
 
 ```
