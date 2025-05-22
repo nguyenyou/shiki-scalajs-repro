@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+code .diff.remove {
+  background-color: rgba(244, 63, 94, .16);
+  opacity: 0.7;
+}
+
+code .diff.add {
+  background-color: rgba(16, 185, 129, .16);
+}
+
+code .diff {
+  width: calc(100% + 48px);
+  display: inline-block;
+  transition: background-color 0.5s;
+  margin: 0px -24px;
+  padding: 0px 24px;
+}
+
+code .highlighted {
+  background-color: rgba(101, 117, 133, .16);
+  width: calc(100% + 48px);
+  display: inline-block;
+  transition: background-color 0.5s;
+  margin: 0px -24px;
+  padding: 0px 24px;
+}

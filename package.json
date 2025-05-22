@@ -1,0 +1,20 @@
+{
+  "name": "checkshiki",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@shikijs/transformers": "^3.4.2",
+    "@tailwindcss/vite": "^4.1.7",
+    "shiki": "^3.4.2",
+    "tailwindcss": "^4.1.7"
+  }
+}
